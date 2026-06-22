@@ -1,10 +1,9 @@
-# Hi there! 👋 
-
-Welcome to my GitHub profile. My name is Romeo, I'm a passionate **Frontend Developer** who loves creating clean, responsive, and interactive user interfaces. I enjoy tackling complex logic and turning ideas into highly functional web applications.
+# Hi there! 👋
+Welcome to my GitHub profile. My name is Romeo — I'm a passionate **Frontend Developer** who loves building clean, responsive, and interactive user interfaces. I enjoy tackling complex problems and turning ideas into functional, well-structured web apps.
 
 ### 👨‍💻 About Me
-- 💻 I focus on building robust frontend architecture, with a solid grasp of core JavaScript logic, arrays, objects, and DOM manipulation.
-- 🌱 I believe in continuous growth and love figuring out tricky programming challenges step-by-step.
+- 💻 I focus on building robust frontend architecture using React, Next.js App Router, and TypeScript — with a solid grasp of JavaScript fundamentals, state management patterns, and REST API integration.
+- 🌱 I believe in continuous growth and love figuring out tricky engineering challenges step by step.
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -14,6 +13,9 @@ Welcome to my GitHub profile. My name is Romeo, I'm a passionate **Frontend Deve
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Zustand" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ### 🗣️ Languages
@@ -22,12 +24,12 @@ Welcome to my GitHub profile. My name is Romeo, I'm a passionate **Frontend Deve
 ![Russian](https://img.shields.io/badge/Russian-Native-red?style=flat-square)
 
 ### 🚀 Currently Learning
-Right now, my main focus is expanding my knowledge of **React** (Beginner level). I am actively building projects to get comfortable with components, state management, and modern frontend workflows to complement my foundation in vanilla JavaScript.
+Right now I'm deepening my knowledge of **fullstack patterns** with Next.js App Router — exploring SSR, data fetching strategies, and server/client component boundaries. Also exploring backend fundamentals to grow toward fullstack development.
 
 ### 💼 Open to Work
-I am highly motivated, disciplined, and actively looking for my first full-time role in tech! If you are seeking a dedicated **Trainee or Junior Frontend Developer** to join your team and grow with your company, I would love to connect.
+I'm highly motivated, disciplined, and actively looking for my first full-time role in tech. If you're seeking a dedicated **Trainee or Junior Frontend Developer** to join your team and grow with your company — I'd love to connect.
 
 ### 📫 How to reach me:
 [Telegram](https://t.me/theywannabelikeromeo) | [Email](mailto:rkolesnichenko27@gmail.com)
 
-🤝 **Let's collaborate:** Feel free to explore my repositories below to see my latest code!
+🤝 **Let's collaborate:** Feel free to explore my repositories below to see my latest work!
